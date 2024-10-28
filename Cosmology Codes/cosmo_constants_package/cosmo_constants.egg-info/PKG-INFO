@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: cosmo_constants
+Version: 0.1
+Summary: Package of cosmological and physical constants based on Planck 2018 data
+Author: Seu Nome
+Requires-Python: >=3.6
